@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi people 👋
 
-<!--
-**emiliofbb/emiliofbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am junior software developer from Spain that is interested in all kind of new technologies.   
+I'm very curious and here, in my github profile, I expect to have repositories about all the things that I learn.
 
-Here are some ideas to get you started:
+### What I'm doing right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Searching a job.
+- Taking photos.
+- Developing some small projects.
+
+## Skills
+
+- Native Android development.
+- DBs: SQL and Mongo.
+- JavaFX and Swing development.
+- Docker basics.
+- React Native development.
+- Express js and GraphQL API development.
+
+## Contact
+
+Email: emiliofbb@gmail.com
