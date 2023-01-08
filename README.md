@@ -1,11 +1,11 @@
 # Hi people 👋
 
-I am junior software developer from Spain that is interested in all kind of new technologies.   
+I am junior software developer from Spain, that is interested in all kind of new technologies.   
 I'm very curious and here, in my github profile, I expect to have repositories about all the things that I learn.
 
 ### What I'm doing right now:
 
-- Searching a job.
+- Working at KiwandaLabs.
 - Taking photos.
 - Developing some small projects.
 
@@ -17,6 +17,7 @@ I'm very curious and here, in my github profile, I expect to have repositories a
 - Docker basics.
 - React Native development.
 - Express js and GraphQL API development.
+- PHP development.
 
 ## Contact
 
