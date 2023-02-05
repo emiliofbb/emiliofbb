@@ -5,19 +5,20 @@ I'm very curious and here, in my github profile, I expect to have repositories a
 
 ### What I'm doing right now:
 
-- Working at KiwandaLabs.
+- Seeking for job.
 - Taking photos.
-- Developing some small projects.
+- Developing some small projects that you can see here.
 
 ## Skills
 
+- PHP development.
+- JavaScript development.
 - Native Android development.
 - DBs: SQL and Mongo.
 - JavaFX and Swing development.
 - Docker basics.
 - React Native development.
 - Express js and GraphQL API development.
-- PHP development.
 
 ## Contact
 
